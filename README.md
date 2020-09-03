@@ -20,13 +20,13 @@ Chest X-ray images were selected from retrospective cohorts of patients from fiv
 
 ### VGG-16
 - VGG-16 Neural Network consists of 16 layers of deep neural network trained on more than a million from the “ImageNet” database.
-- After training for 5 epochs, we received an accuracy of 91%
+- After training for 5 epochs, **we received an accuracy of 91%**
 ### VGG-19
 - The concept of the VGG19 is same as the VGG16 except that the model is more complex as the network is 19 layers deep.
-- After training for 5 epochs, we received an accuracy of 92
+- After training for 5 epochs, **we received an accuracy of 92%**
 ### RESNET-50
 - Resnets are a kind of CNNs called Residual Networks. They are very deep compared to VGG-16 and VGG-19.
-- After training for 5 epochs, we received an accuracy of 85%
+- After training for 5 epochs, **we received an accuracy of 85%**
 
 
 ## Training and Testing details
@@ -45,9 +45,10 @@ We receive output in 2 classes (one denoting NORMAL case, other denoting PNEUMON
 
 ![Screenshot](https://user-images.githubusercontent.com/33038093/92111092-67188d00-ee09-11ea-9562-372e01a73aa7.png)
 
-### Calculations
+### Results obtained by calculations
 
 ![result](https://user-images.githubusercontent.com/33038093/92111779-72b88380-ee0a-11ea-9797-99160c59e984.jpg)
+
 _Comma separated values indicates values for NORMAL and PNUEMONIA class_
 
 
