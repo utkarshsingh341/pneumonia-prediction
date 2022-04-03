@@ -1,5 +1,6 @@
 # Predicting Pnuemonia Disease
 ### Creating a deep-learning project to predict pneumonia disease in a patient through patterns observed in lung X-rays using transfer learning
+IEEE Paper Link - https://ieeexplore.ieee.org/document/9297388
 
 
 ## Motivation for selecting the problem statement
